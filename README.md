@@ -1,0 +1,2 @@
+# dotfile
+The dot file I'm currently using for bash
